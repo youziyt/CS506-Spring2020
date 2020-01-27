@@ -1,3 +1,5 @@
 def draw_road():
-    print("road not found")
+    for i in range(10):
+        print("=",end="")
+    print()
     return
