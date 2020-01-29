@@ -5,5 +5,5 @@ from .hospital import draw_hospital
 def draw_outdoors():
     draw_lake()
     draw_park()
-    draw_hospital()
+    draw_hospital(13)
     return

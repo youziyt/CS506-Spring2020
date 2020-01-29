@@ -1,4 +1,4 @@
 def draw_school():
-    print("school library not found")
+    print("school not found")
 
     return
