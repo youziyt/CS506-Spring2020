@@ -1,6 +1,5 @@
-def draw_hospital():
+def draw_hospital(width):
     """ please modify the width, it should be an odd number """
-    width = 13
     draw_line(width)
     draw_hospital_sign(width)
     draw_line(width)
