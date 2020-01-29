@@ -4,6 +4,6 @@ from .policestation import draw_policestation
 
 def draw_safety():
     draw_firestation()
-    draw_hospital(13)
+    draw_hospital()
     draw_policestation()
     return
